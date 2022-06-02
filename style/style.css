@@ -15,6 +15,7 @@ main {
     overflow: hidden;
     margin: 150px 80px;
     padding: 50px;
+    width: max-content;
 }
 
 body {
@@ -45,7 +46,7 @@ div.heading h1 {
 .btn {
     margin-top: 50px;
     font-size: large;
-    width: 11rem;
+    /* width: 11rem; */
     border-radius: 30px;
     transition: 200ms;
     border-width: 1px;
