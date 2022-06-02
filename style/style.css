@@ -45,9 +45,10 @@ div.heading h1 {
 .btn {
     margin-top: 50px;
     font-size: large;
+    width: 11rem;
     border-radius: 30px;
     transition: 200ms;
-    border-width: 2px;
+    border-width: 1px;
     border-color: #bf2e34;
     padding: 10px 30px;
     background-color: rgb(34, 34, 34);
